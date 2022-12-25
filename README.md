@@ -1,4 +1,4 @@
 # FlappyBird 
 
-FlappyBird game inspired from Hands on Rust book 
+FlappyBird game from Hands on Rust book. 
 
