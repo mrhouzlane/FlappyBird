@@ -1,0 +1,8 @@
+/Users/mehdirhouzlane/rusty/flappy/target/debug/deps/bracket_algorithm_traits-4361a4d890f9d628.rmeta: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/Users/mehdirhouzlane/rusty/flappy/target/debug/deps/bracket_algorithm_traits-4361a4d890f9d628.d: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/lib.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/basemap.rs:

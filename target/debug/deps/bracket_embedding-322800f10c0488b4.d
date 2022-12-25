@@ -1,0 +1,10 @@
+/Users/mehdirhouzlane/rusty/flappy/target/debug/deps/bracket_embedding-322800f10c0488b4.rmeta: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/mehdirhouzlane/rusty/flappy/target/debug/deps/libbracket_embedding-322800f10c0488b4.rlib: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/mehdirhouzlane/rusty/flappy/target/debug/deps/bracket_embedding-322800f10c0488b4.d: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png:
